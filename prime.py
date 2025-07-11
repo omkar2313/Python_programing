@@ -13,7 +13,7 @@ def is_prime(num):
     return True
 
 # Input from user
-number = int(input("Enter a number: "))
+number = int(input("Enter a numbers to check for prime: "))
 
 # Check and display result
 if is_prime(number):
